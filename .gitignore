@@ -12,3 +12,4 @@ external.hpp
 *.label
 *.gz
 pretrained_models/
+darknet21/
